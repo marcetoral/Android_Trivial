@@ -8,7 +8,7 @@
 [![Contributors][contributors-shield]][contributors-url] 
 [![Issues][issues-shield]][issues-url]
 [![Contact][discord-shield]][discord-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] 
+![platform-shield]
 
 
 
@@ -137,6 +137,7 @@ Si quieres contribuir:
 
 [discord-shield]: https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat&logo=discord
 [discord-url]: https://www.discord.com/users/290575161869205504
+[platform-shield]: https://img.shields.io/badge/platform-black?style=flat&logo=android
 [release-shield]: https://img.shields.io/badge/release%20date-March%202018-lightgrey
 [contributors-shield]: https://img.shields.io/github/contributors/Pikass0/Android_Trivial?color=green
 [contributors-url]: https://github.com/Pikass0/Android_Trivial/graphs/contributors
