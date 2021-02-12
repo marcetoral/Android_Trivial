@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trivial sin quesitos</string>
+    <string name="btn_true_text">TRUE</string>
+    <string name="btn_false_text">FALSE</string>
+    <string name="tiempo_text">Time up!</string>
+    <string name="respuesta_ok">You\'re right!</string>
+    <string name="ver_explicacion_text">See explanation</string>
+    <string name="continuar_text">Continue</string>
+    <string name="jugar">Play</string>
+    <string name="mantenimiento">Mainteneance</string>
+    <string name="crear">Create</string>
+    <string name="explicacion">Explanation</string>
+    <string name="verdadero">Is true</string>
+    <string name="username">Guest</string>
+    <string name="menu">Menu</string>
+</resources>

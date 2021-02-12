@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Trivial sin quesitos</string>
+    <string name="pregunta1" translatable="false">El kiwi es un mamífero</string>
+    <string name="explicacion1" translatable="false">Ave que vivía en Australia, actualmente extinto</string>
+    <string name="pregunta2" translatable="false">El Nilo es el río más caudaloso del mundo</string>
+    <string name="explicacion2" translatable="false">El Nilo es el más largo, mientras que el Amazonas es el más caudaloso</string>
+    <string name="pregunta3" translatable="false">El ornitorrinco es un mamífero pero pone huevos</string>
+    <string name="explicacion3" translatable="false">Sí, es el único mamífero que pone huevos </string>
+    <string name="pregunta4" translatable="false">La superficie de Chile es mayor que la de Francia</string>
+    <string name="explicacion4" translatable="false">Sí. La superficie de Chile son 756.102 km², mientras que Francia tiene 675.417 km²</string>
+    <string name="pregunta5" translatable="false">Gran Bretaña y Reino Unido son lo mismo</string>
+    <string name="explicacion5" translatable="false">No, Gran Bretaña es la isla, y Reino Unido el país, que lo forman varias islas, entre ellas, Gran Bretaña.</string>
+    <string name="pregunta6" translatable="false">Los perros de raza Dálmata nacen sin manchas</string>
+    <string name="explicacion6" translatable="false">Sí, nacen blancos y las manchas van apareciendo con el tiempo</string>
+    <string name="pregunta7" translatable="false">Existen razas de perros que no pueden ladrar</string>
+    <string name="explicacion7" translatable="false">Sí, en concreto los Basenji. En vez de ladrar, emiten sonidos estilo Canto Tirolés</string>
+    <string name="pregunta8" translatable="false">Los perros ven en blanco y negro</string>
+    <string name="explicacion8" translatable="false">Tienen visión dicromática llamada deuteranopia, una forma de daltonismo que afecta el rojo y el verde</string>
+    <string name="pregunta9" translatable="false">En Júpiter hay lluvia de diamantes</string>
+    <string name="explicacion9" translatable="false">Sí. A medida que descienden a la superficie, el metano se convierte en trozos de grafito y diamante, gracias al aumento de la presión y la temperatura</string>
+    <string name="pregunta10" translatable="false">Un año de perro equivalen a 7 años de humano</string>
+    <string name="explicacion10" translatable="false">No. Cada raza madura de una forma y tiene una esperanza de vida</string>
+    <string name="pregunta11" translatable="false">El ser humano comparte un 50% de su ADN con el plátano</string>
+    <string name="explicacion11" translatable="false">Un 50% de las moléculas de ADN que conforman nuestro organismo son iguales que las de un plátano. Eso sí, comparando con el chimpancé, la semejanza es del 95%</string>
+    <string name="pregunta" translatable="false">Pregunta</string>
+    <string name="btn_true_text">VERDADERO</string>
+    <string name="btn_false_text">FALSO</string>
+    <string name="btn_back_text" translatable="false">&lt;</string>
+    <string name="btn_next_text" translatable="false">&gt;</string>
+    <string name="tiempo_text">¡Tiempo!</string>
+    <string name="respuesta_ok">Ha acertado</string>
+    <string name="ver_explicacion_text">Ver explicación</string>
+    <string name="continuar_text">Continuar</string>
+    <string name="resouesta_mal" translatable="false">La respuesta es <b>incorrecta</b>. Ver explciación</string>
+    <string name="cerrar" translatable="false">X</string>
+    <string name="jugar">Jugar</string>
+    <string name="mantenimiento">Mantenimiento</string>
+    <string name="borrar" translatable="false">🗑️</string>
+    <string name="crear">Crear</string>
+    <string name="explicacion">Explicacion</string>
+    <string name="verdadero">Verdadero</string>
+    <string name="username">Guest</string>
+    <string name="menu">Menú</string>
+    <string name="tops">Tops</string>
+    <string name="musica">Música</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>
