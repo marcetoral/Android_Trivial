@@ -22,9 +22,9 @@
     Un simple quiz para Android
     <br />
     ·
-    <a href="https://github.com/Pikass0/Android_Trivial/issues">Report Bug</a>
+    <a href="https://github.com/marcetoral/Android_Trivial/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pikass0/Android_Trivial/issues">Request Feature</a>
+    <a href="https://github.com/marcetoral/Android_Trivial/issues">Request Feature</a>
   </p>
 </p>
 
@@ -112,7 +112,7 @@ Un dispositivo Android o emulador
   Edita lo necesario y dale a **Modificar**
 * Para crear una nueva pregunta, rellena el formulario y dale a **Crear**
 * Para eliminar una pregunta, dale a la papelera correspondiente de la pregunta.
-* Ir a girhub.com/Pikass0 y darme una estrellita por el logo tan profesional que me he marcado
+* Ir a girhub.com/marcetoral y darme una estrellita por el logo tan profesional que me he marcado
 
 
 
@@ -126,7 +126,7 @@ Si quieres contribuir:
 2. Crea tu rama (`git checkout -b feature/AmazingFeature`)
 3. Commit los cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un [Pull request](https://github.com/Pikass0/Android_Trivial/pulls)
+5. Abre un [Pull request](https://github.com/marcetoral/Android_Trivial/pulls)
 
 
 
@@ -140,10 +140,10 @@ Si quieres contribuir:
 [discord-url]: https://www.discord.com/users/290575161869205504
 [platform-shield]: https://img.shields.io/badge/platform-black?style=flat&logo=android
 [release-shield]: https://img.shields.io/badge/release%20date-March%202018-lightgrey
-[contributors-shield]: https://img.shields.io/github/contributors/Pikass0/Android_Trivial?color=green
-[contributors-url]: https://github.com/Pikass0/Android_Trivial/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues-raw/Pikass0/Android_Trivial?color=orange
-[issues-url]: https://github.com/Pikass0/Android_Trivial/issues
+[contributors-shield]: https://img.shields.io/github/contributors/marcetoral/Android_Trivial?color=green
+[contributors-url]: https://github.com/marcetoral/Android_Trivial/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues-raw/marcetoral/Android_Trivial?color=orange
+[issues-url]: https://github.com/marcetoral/Android_Trivial/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&color=blue
 [linkedin-url]: https://www.linkedin.com/in/marcelo-toral-martínez-573735176/
 [menu-ss]: readme/menu.jpg
