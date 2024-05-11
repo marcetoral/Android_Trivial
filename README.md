@@ -76,15 +76,15 @@ Quiz de Android con preguntas verdaderas y falsas.
 Herramientas usadas:
 * Android Studio
 * He puesto en práctica lo siguiente:
-  -Ciclo de vida de Activities utilizando Servicios
-  -Bases de datos SQLite
-  -Animaciones
-  -RecyclerView y Adapters
-  -AlertDialog y Dialogs personalizados con layouts
-  -Internacionalización (excepto las preguntas, ya que se pueden crear nuevas y estas no tendrían traducción)
-  -Themes
-  -Menú normal y contextual
-  -Multimedia
+  * Ciclo de vida de Activities utilizando Servicios
+  * Bases de datos SQLite
+  * Animaciones
+  * RecyclerView y Adapters
+  * AlertDialog y Dialogs personalizados con layouts
+  * Internacionalización (excepto las preguntas, ya que se pueden crear nuevas y estas no tendrían traducción)
+  * Themes
+  * Menú normal y contextual
+  * Multimedia
   
 
 
